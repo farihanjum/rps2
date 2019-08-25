@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main2Activity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="800px"
+            android:layout_gravity="top"
+            android:src="@drawable/scaled_scaled_dp_fringe_show"/>
+
+
+        <TextView
+            android:paddingTop="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:text="Play With "/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="200sp"
+            android:layout_height="180sp"
+            android:src="@drawable/human"
+            />
+
+
+        <ImageView
+            android:layout_width="160sp"
+            android:layout_height="180sp"
+            android:src="@drawable/pc"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingTop="20dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/b_Human"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30dp"
+            android:text="Human" />
+
+        <Button
+            android:id="@+id/b_computer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="30dp"
+            android:text="Computer" />
+    </LinearLayout>
+
+
+</LinearLayout>
+
+

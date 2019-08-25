@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/de94d459f13b12179546a044d4777a34/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b1ecfb5437d80f3f9ca15b037ed472/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/6324210386b92e9b06cfa04185abcf04/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/40c6c4e7901c58089d1d4fd471bec7b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4460b6f8a58ff0fe77b2d5552a15ad58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/3bafe1fef25be2a177d0b46fbb6259d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fcb95d44f846148a453eca472af8490b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/6b9911e89a1c28bfe65540b6f009bd72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/39f3a892d3bcab6f0ce56b129dc4a594/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4af60ccb4e685d01fd262ad006bee21f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/18afbf193f8920725032871f4ab45a55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/0ebd1080f09c4da72112391e2c3f9646/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e9b58c286e230b517b1b3648f0dac837/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/8e9c1d8640c08a064bd12368a013ef5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/40d44716154dd4daaf507960ab296fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b0791e365521bcdb0e6bec7fe53a64/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fc01fab6097af812a40832c0c9f5c637/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fdf4d4974943ab78a1c24eda0feb4c86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/c3a6a99318fb28fbfeb58dc07942f998/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4962383b698c9ab2c8393e596d296518/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/b486651cdb7cf13d53c0c7a3c128f524/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/12c084d87a38ed902b4caac0865a368e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/58a57ad523fa89fd8879073b30aa9a5b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/1f885fa0c39d879a19c292c9eed3b2ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/9f8b8b51ab1523141457667f5a0ee5c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/7a144151c42ddb284cee5580e80585ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e1c97dbb4a0c0122b1eafd0f8177791e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b1ecfb5437d80f3f9ca15b037ed472/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b1ecfb5437d80f3f9ca15b037ed472/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b0791e365521bcdb0e6bec7fe53a64/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b0791e365521bcdb0e6bec7fe53a64/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fc01fab6097af812a40832c0c9f5c637/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fc01fab6097af812a40832c0c9f5c637/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b0791e365521bcdb0e6bec7fe53a64/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.rps.Main2Activity
+ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:12:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.rps.MainActivity
+ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:19:9-21:20
+	android:name
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml:19:19-47
+uses-sdk
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/de94d459f13b12179546a044d4777a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/de94d459f13b12179546a044d4777a34/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b1ecfb5437d80f3f9ca15b037ed472/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b1ecfb5437d80f3f9ca15b037ed472/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/6324210386b92e9b06cfa04185abcf04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/6324210386b92e9b06cfa04185abcf04/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/40c6c4e7901c58089d1d4fd471bec7b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/40c6c4e7901c58089d1d4fd471bec7b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4460b6f8a58ff0fe77b2d5552a15ad58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4460b6f8a58ff0fe77b2d5552a15ad58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/3bafe1fef25be2a177d0b46fbb6259d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/3bafe1fef25be2a177d0b46fbb6259d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fcb95d44f846148a453eca472af8490b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fcb95d44f846148a453eca472af8490b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/6b9911e89a1c28bfe65540b6f009bd72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/6b9911e89a1c28bfe65540b6f009bd72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/39f3a892d3bcab6f0ce56b129dc4a594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/39f3a892d3bcab6f0ce56b129dc4a594/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4af60ccb4e685d01fd262ad006bee21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4af60ccb4e685d01fd262ad006bee21f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/18afbf193f8920725032871f4ab45a55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/18afbf193f8920725032871f4ab45a55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/0ebd1080f09c4da72112391e2c3f9646/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/0ebd1080f09c4da72112391e2c3f9646/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e9b58c286e230b517b1b3648f0dac837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e9b58c286e230b517b1b3648f0dac837/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/8e9c1d8640c08a064bd12368a013ef5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/8e9c1d8640c08a064bd12368a013ef5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/40d44716154dd4daaf507960ab296fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/40d44716154dd4daaf507960ab296fe8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b0791e365521bcdb0e6bec7fe53a64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e8b0791e365521bcdb0e6bec7fe53a64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fc01fab6097af812a40832c0c9f5c637/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fc01fab6097af812a40832c0c9f5c637/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fdf4d4974943ab78a1c24eda0feb4c86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/fdf4d4974943ab78a1c24eda0feb4c86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/c3a6a99318fb28fbfeb58dc07942f998/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/c3a6a99318fb28fbfeb58dc07942f998/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4962383b698c9ab2c8393e596d296518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/4962383b698c9ab2c8393e596d296518/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/b486651cdb7cf13d53c0c7a3c128f524/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/b486651cdb7cf13d53c0c7a3c128f524/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/12c084d87a38ed902b4caac0865a368e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/12c084d87a38ed902b4caac0865a368e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/58a57ad523fa89fd8879073b30aa9a5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/58a57ad523fa89fd8879073b30aa9a5b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/1f885fa0c39d879a19c292c9eed3b2ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/1f885fa0c39d879a19c292c9eed3b2ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/9f8b8b51ab1523141457667f5a0ee5c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/9f8b8b51ab1523141457667f5a0ee5c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/7a144151c42ddb284cee5580e80585ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/7a144151c42ddb284cee5580e80585ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e1c97dbb4a0c0122b1eafd0f8177791e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fariha_anjum/.gradle/caches/transforms-2/files-2.1/e1c97dbb4a0c0122b1eafd0f8177791e/AndroidManifest.xml:20:5-44
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+		ADDED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fariha_anjum/AndroidStudioProjects/RPS/app/src/main/AndroidManifest.xml
